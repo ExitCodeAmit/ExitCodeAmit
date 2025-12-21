@@ -31,8 +31,8 @@ I am a Master's student in **Computer Applications (AI & Data Science)** at **Vi
 
 ### 📈 GitHub Stats
 
-![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical)
+![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzamit04&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzamit04&layout=compact&theme=radical)
 
 ---
 
