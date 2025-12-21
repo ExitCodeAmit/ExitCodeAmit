@@ -38,5 +38,5 @@ I am a Master's student in **Computer Applications (AI & Data Science)** at **Vi
 
 ### 📫 Connect with Me
 
-* [LinkedIn](www.linkedin.com/in/amitkumar-918b1a356)
+* [LinkedIn] www.linkedin.com/in/amitkumar-918b1a356
 * [Portfolio Website](PUT_YOUR_WEBSITE_URL_HERE)
