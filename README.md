@@ -19,7 +19,7 @@
   <a href="https://github.com/ExitCodeAmit">
     <img src="https://img.shields.io/badge/GitHub-ExitCodeAmit-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/amit-kumar-paswan">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
