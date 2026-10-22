@@ -56,7 +56,8 @@ collaboration skills, and understanding of real-world development.
 
 ## 💼 Experience
 
-### 🚀 Full Stack Developer Intern — Utoskill
+### 🚀 Senior Team Leader & Full Stack Developer Intern
+**Uptoskill**
 
 **Role:** Full Stack Developer Intern  
 **Focus:** Web Development, Team Collaboration, and Technical Learning
@@ -76,14 +77,15 @@ technologies, and achievements as your internship progresses.*
 ## 🎓 Education
 
 ### Master of Computer Applications (MCA)
+**Vivekananda Global University, Jaipur, Rajasthan, India**
 
-**Vivekananda Global University**  
-Jaipur, Rajasthan, India
+📅 **Duration:** 2025 – 2027
 
-- Focus areas: Computer Science and Software Development
-- Learning programming, databases, software engineering,
-  artificial intelligence, and cloud technologies.
-- Applying academic concepts through practical assignments and projects.
+- Studying computer applications and software development.
+- Exploring programming, database management, and software engineering.
+- Learning Artificial Intelligence, Machine Learning, and Cloud Computing.
+- Building practical skills through academic assignments and software projects.
+
 
 ---
 
